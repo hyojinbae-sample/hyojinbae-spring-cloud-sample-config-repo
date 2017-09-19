@@ -1,4 +1,4 @@
 appkey: client1 value
-commonkey2: overrided by client1
+commonkey2: overrided by client1(modified)
 server:
   port: 8081
