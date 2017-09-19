@@ -1,3 +1,5 @@
 testkey: testvalue2
 commonkey1: washio
 commonkey2: commonvalue2
+server:
+  port: 8081
