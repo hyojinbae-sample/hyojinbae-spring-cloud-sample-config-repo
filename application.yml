@@ -1,2 +1,5 @@
 commonkey1: commonvalue1
 commonkey2: commonvalue2
+management:
+  security:
+    enabled: false
