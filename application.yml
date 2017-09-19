@@ -1,5 +1,2 @@
-testkey: testvalue2
-commonkey1: washio
+commonkey1: commonvalue1
 commonkey2: commonvalue2
-server:
-  port: 8081
