@@ -2,3 +2,9 @@ appkey: client1 value
 commonkey2: overrided by client1(modified)
 server:
   port: 8081
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
