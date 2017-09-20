@@ -9,5 +9,5 @@ spring:
     password: guest
     
 
-commonkey1: commonvalue1(ken--)
-commonkey2: commonvalue2
+commonkey1: commonvalue1111
+commonkey2: commonvalue2222
