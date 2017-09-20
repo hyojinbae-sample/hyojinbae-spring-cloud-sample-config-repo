@@ -1,5 +1,13 @@
-commonkey1: commonvalue1(ken--)
-commonkey2: commonvalue2
 management:
   security:
     enabled: false
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+    
+
+commonkey1: commonvalue1(ken--)
+commonkey2: commonvalue2
