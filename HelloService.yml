@@ -1,8 +1,8 @@
 server:
   port: 0
-world:
+hello:
   service:
-    message: world
+    message: hello
 eureka:
   client:
     serviceUrl:
