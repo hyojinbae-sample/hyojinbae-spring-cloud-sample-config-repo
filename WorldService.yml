@@ -2,7 +2,7 @@ server:
   port: 0
 world:
   service:
-    message: world
+    message: '{cipher}AQBpHrb32Ipybus56aSN1AHB55VYWg6R0dOfE6pldH69KoBnN8uDEWrLEyOHLM0KHxZNtjV8GHkqHfbylOPTxcOTIAhYBtDskPRzRqQRbFdpofVAvV81Z3OanvoQxmwA0aOKQFE9KHODGpuGp+Vk56jZckIZS+5xL4TZ5fLCEhww4EAY4pC+Bw68CB/BxWV+EiRsBSWdL0oxaxwjyxNKOrCxzHL1m++Uo6Rl7o4BGQREAkL1nRAaRDl32cxIOXBEeqaafCMaJhffYsY26bBEruCeje5HXxr0VdNfXZUG+71awCs2KdUoSfd3JGYwytcWox2W+3XME6h9C2Q+cUglmZDvMOlhANrS1NfS2Pez4/y267JcLCyM0GSA927Bn7RGQR0='
 eureka:
   client:
     serviceUrl:
