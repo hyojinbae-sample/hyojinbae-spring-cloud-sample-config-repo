@@ -1,10 +1,1 @@
-appkey: client1 value(ken)
-commonkey2: overrided by client1(modified)
-server:
-  port: 8081
-spring:
-  rabbitmq:
-    host: localhost
-    port: 5672
-    username: guest
-    password: guest
+message: '{cipher}AQBrdMR8dzfBbSbXIdKsgWP4SeXA6R8nfWsoiK3LWyC/GJF/J/X1HzGL8zyCBWIicaZz2OZ1m1qCH5zh4gLUKnRx6ZSGbfX537r8RJXTE3nxAdcQD8nbZ5aW/yKj2a6EVLfxDR6JK1vWUHTrTqDLJNnjY8PfRmbS2s/fDFsL7NdOimc42MOriV+BwYTRUdhCbr1aHsS4CjpleW50PjHwuxKQn7ksE5hMjd/iauXLDKmyQ1rezRrNlQBYowbbbvYc5mojwF/756WUiOgpjy8KD5vK1aPCnj77L7N8rphDqIV+3P6zxysGfMn3Hx2tZiux+kOiJ81s+fLnVOqXxxC8EyXDhBZsqvK8gEpI4GzC3Uy2sJpw1rhMoD6k/1sbOEG1ttw='
